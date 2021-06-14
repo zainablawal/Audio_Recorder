@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">voice recorder</string>
+    <string name="playing">Playing Recorded Audio....</string>
+    <string name="stopped">Recording Stopped</string>
+    <string name="Recording">Audio Recording.......</string>
+    <string name="record_audio">RECORD AUDIO</string>
+</resources>
